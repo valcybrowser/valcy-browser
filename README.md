@@ -1,7 +1,7 @@
 Valcy Browser WebSite: https://gamesvisions.com
 
 # valcy-browser
-Valcy Browser is created with Firefox source code. Which you can find here: https://github.com/mozilla/gecko-dev
+Valcy Browser is created with Firefox source code.
 
 # Dependencies
 1) Install MozillaBuild: https://ftp.mozilla.org/pub/mozilla/libraries/win32/MozillaBuildSetup-Latest.exe
